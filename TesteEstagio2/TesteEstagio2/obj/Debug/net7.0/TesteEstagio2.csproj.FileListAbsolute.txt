@@ -1,0 +1,14 @@
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\bin\Debug\net7.0\TesteEstagio2.exe
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\bin\Debug\net7.0\TesteEstagio2.deps.json
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\bin\Debug\net7.0\TesteEstagio2.runtimeconfig.json
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\bin\Debug\net7.0\TesteEstagio2.dll
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\bin\Debug\net7.0\TesteEstagio2.pdb
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\obj\Debug\net7.0\TesteEstagio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\obj\Debug\net7.0\TesteEstagio2.AssemblyInfoInputs.cache
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\obj\Debug\net7.0\TesteEstagio2.AssemblyInfo.cs
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\obj\Debug\net7.0\TesteEstagio2.csproj.CoreCompileInputs.cache
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\obj\Debug\net7.0\TesteEstagio2.dll
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\obj\Debug\net7.0\refint\TesteEstagio2.dll
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\obj\Debug\net7.0\TesteEstagio2.pdb
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\obj\Debug\net7.0\TesteEstagio2.genruntimeconfig.cache
+C:\Aulas-Projetos\Aulas\TesteTarget\TesteEstagio2\TesteEstagio2\obj\Debug\net7.0\ref\TesteEstagio2.dll
